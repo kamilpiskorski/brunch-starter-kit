@@ -1,0 +1,26 @@
+{
+  "name": "brunch-starter-kit",
+  "version": "0.0.0",
+  "description": "Starter Kit based on Brunch for work with ES6, Autoprefixer and SASS",
+  "author": {
+    "name": "Kamil Piskorski",
+    "email": "kamil.piskorski@mvpdoers.com",
+    "url": "https://mvpdoers.com"
+  },
+  "license": "ISC",
+  "scripts": {
+    "start": "brunch watch --server",
+    "build": "brunch build --production"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "auto-reload-brunch": "^2.7.1",
+    "autoprefixer": "^9.6.1",
+    "babel-brunch": "^7.0.1",
+    "babel-preset-latest": "^6.24.1",
+    "brunch": "^2.10.17",
+    "sass-brunch": "^2.10.8",
+    "spostcss-brunch": "^1.0.1",
+    "uglify-js-brunch": "^2.10.0"
+  }
+}

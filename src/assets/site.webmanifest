@@ -1,0 +1,23 @@
+{
+  "name": "MVPdoers - brunch starter kit",
+  "short_name": "MVPdoers",
+  "description": "Starter Kit based on Brunch for work with ES6, Autoprefixer and SASS",
+  "icons": [
+    {
+      "src": "/favicons/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicons/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/",
+  "scope": "/",
+  "theme_color": "#FFFFFF",
+  "background_color": "#FFFFFF",
+  "orientation": "portrait-primary",
+  "display": "standalone"
+}
